@@ -1,0 +1,52 @@
+
+body{
+	background-color:;
+}
+h1{
+    text-align: center;
+	color: red;
+    font-size:60px ;
+}
+
+h2{
+	font-size: 40px;
+}
+h3{
+	font-size: 45px;
+	color: black;
+}
+p{
+    
+	color:yellow;
+	font-weight:normal;
+	font-family: tahoma;
+	letter-spacing: 0.1em;
+    font-size: 40px;
+    line-height: 1.6em;
+}
+h4{
+	text-align: center;
+	color:red;
+	font-size: 70px;}
+
+.c1
+{
+   
+   background-color:black ;
+   border:#0023FF 8px solid;
+   padding-left: 45px;
+}
+.container{
+	color: #00FF0C ;
+	width: 60%;
+	margin: auto;
+	background-color:black;
+	border: red 8px solid;
+	text-align: center;
+	border-radius: 50%;
+}
+h5{
+	color: black;
+	font-weight: bold;
+	font-size: 60px;
+	} 
